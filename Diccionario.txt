@@ -12,9 +12,9 @@ Suelos blandos||Soft soils
 
 
 
-Red neuronal||Neuronal network
+Red neuronal||Neural network
 	Modelo: un tipo de proceso de machine learning (ML) llamado aprendizaje profundo, el cual utiliza los nodos o las neuronas interconectados en una estructura de capas que se parece al cerebro humano. Crea un sistema adaptable que las computadoras utilizan para aprender de sus errores y mejorar continuamente.
-	
+	A computer system modeled on the human brain and nervous system.
 	
 Geotécnica||
 
@@ -152,3 +152,78 @@ Talud||Slope/Incline
 Pluvial||Rain
 
 
+Deslizamiento||Landslide
+
+
+
+Vialidad lateral||Lateral highway
+
+
+
+Colinda||Adjacent to
+	Contiguo, Adyacente
+
+Dictamen||Investigation/Judgment
+	Opinión de especialista
+	
+
+Levantamientos topográficos||Topography hoisting
+	
+	The surface of a hoisting wire rope or to hoisting systems used in drilling and mining.
+
+Corona de talud||Crown slope
+	Es la parte superior de un talud, es decir, la parte más elevada de su inclinación.
+	Is the angle from the back of the crown to the plane in which you are making the turn.
+
+Retro-análisis||
+
+
+
+Cuña||Wedge
+	Pieza en ángulo para sujetar.
+	A piece of wood, metal, or some other material having one thick end and tapering to a thin edge, that is driven between two objects or parts of an object to secure or separate them.
+
+Pirólisis||Pyrolysis
+	Descomposición de un compuesto químico por acción del calor. Degradación térmica de una sustancia en ausencia de oxígeno.
+	
+
+Kinetic
+	Movimiento
+	Relating to or resulting from motion.
+
+Termogravimetría||Thermogravimetry
+	Método analítico que mide la variación de masa de una sustancia al ser calentada o enfriada.
+	A technique that measures how the mass of a sample changes as a function of temperature or time.
+
+Gradiente||Gradient
+	
+	A rate of change.
+
+Plásticos estándar||Commodity plastics
+	Aquellos que se fabrican y usan en grandes cantidades debido a su precio y a sus buenas características. 
+	Inexpensive, widely produced plastics used for many applications.
+
+Compuestos alifáticos||Aliphatic compounds
+	Compuestos orgánicos que contienen carbono e hidrógeno, y que pueden tener cadenas lineales, ramificadas o anillos no aromáticos. 
+	Organic compounds that contain carbon and hydrogen, and are not aromatic.
+
+Incineración||Incineration
+	
+	Fancy word for burning.
+
+Basura||Refuses
+	
+	Can be used as a noun to describe *trash or rubbish*, or as a verb to mean to reject or deny something. 
+
+Dioxina||Dioxines
+	Grupo de sustancias químicas tóxicas que contaminan el medio ambiente y la cadena alimentaria.
+	Toxic compound.
+
+Relleno||Fillers
+	
+	
+
+Descomposición por pasos||Stepwise decomposition
+	Metodología de desarrollo de sistemas que consiste en definir los datos y pasos del proceso de forma general al principio y ampliar el detalle posteriormente. 
+	A process that breaks down a problem into smaller, more manageable pieces.
+	
